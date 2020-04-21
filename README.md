@@ -1,2 +1,2 @@
-# ML-COMP3330
+# UONCOMP3330
 Machine Learning Course COMP3330
